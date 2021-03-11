@@ -1,3 +1,7 @@
+![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/Todo-1.PNG)
+![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/Todo-2.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

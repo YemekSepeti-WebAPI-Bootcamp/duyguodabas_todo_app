@@ -1,5 +1,8 @@
-![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/Todo-1.PNG)
-![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/Todo-2.PNG)
+Redux ile State Management : https://duyguevrim.medium.com/redux-nedir-reactta-redux-nas%C4%B1l-kullan%C4%B1l%C4%B1r-2fbcec4255db
+
+![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/ss0.PNG)
+![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/ss1.PNG)
+![Sayfa Görseli](https://github.com/YemekSepeti-WebAPI-Bootcamp/duyguodabas_todo_app/blob/master/src/assets/ss2.PNG)
 
 
 # Getting Started with Create React App
